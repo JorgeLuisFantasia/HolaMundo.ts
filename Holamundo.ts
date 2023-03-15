@@ -1,1 +1,1 @@
-console.lob("Hola Mundo2");
+console.log("Hola Mundo233");
